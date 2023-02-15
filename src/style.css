@@ -27,8 +27,7 @@ body{
     background-color: white;
     display: flex;
     flex-direction: column; 
-    border-radius: 50px;
-    box-shadow: 4px 4px 31px 39px rgba(8, 79, 35, 0.27);
+    border-radius: 20px;
 }
 
 .header{
