@@ -1,10 +1,10 @@
-alert("Съебись отсюда");
+alert("Привет друг");
 const buttonOK = document.querySelector("#buttonOk");
 const buttonClose = document.querySelector("#buttonClose");
 buttonOK.addEventListener("click", ()=>{
-    alert("Ты что ахуел на меня тыкать?")
+    alert("ОК")
 })
 
 buttonClose.addEventListener("click", ()=>{
-    alert("Тебе ебало закрыть?")
+    alert("Закрываю....")
 })
