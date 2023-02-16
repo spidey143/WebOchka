@@ -71,6 +71,7 @@ body{
 
 #buttonOk:hover{
     background-color: green;
+    color: black;
 }
 
 #buttonClose:hover{
